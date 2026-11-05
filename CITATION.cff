@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If this tool helped your work, please cite it along with the data table you used."
+title: "Body Segment Parameters Calculator"
+type: software
+version: 1.1.0
+license: MIT
+repository-code: "https://github.com/anikait-kaushik/body-segment-calculator"
+authors:
+  - family-names: Kaushik
+    given-names: Anikait
+references:
+  - type: book
+    title: "Biomechanics and Motor Control of Human Movement"
+    edition: "4"
+    year: 2009
+    isbn: "978-0-470-39818-0"
+    authors:
+      - family-names: Winter
+        given-names: David A.
+    publisher:
+      name: "John Wiley & Sons"
+  - type: article
+    title: "Adjustments to Zatsiorsky-Seluyanov's segment inertia parameters"
+    year: 1996
+    volume: 29
+    issue: 9
+    start: 1223
+    end: 1230
+    journal: "Journal of Biomechanics"
+    authors:
+      - family-names: de Leva
+        given-names: Paolo
